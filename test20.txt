@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is naveen
+=======
+>>>>>>> 30507cece314a9b79fa18eab19d74eb8f0cade37
 this is srinivas
